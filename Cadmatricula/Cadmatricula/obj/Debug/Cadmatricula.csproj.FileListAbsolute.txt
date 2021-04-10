@@ -1,0 +1,182 @@
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csprojAssemblyReference.cache
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Properties.Resources.resources
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.GenerateResource.cache
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CoreCompileInputs.cache
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe.config
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.pdb
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.exe
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.pdb
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmlogin.resources
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmenu.resources
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\bin\Debug\AForge.dll
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.dll
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\bin\Debug\AForge.xml
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.xml
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmcamera.resources
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmmatricula.resources
+C:\Users\vdias\OneDrive\Documentos\TCC2\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CopyComplete
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe.config
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.pdb
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.dll
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.dll
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\DirectShowLib-2005.dll
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.xml
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.xml
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csprojAssemblyReference.cache
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmcamera.resources
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmlogin.resources
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmenu.resources
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmmatricula.resources
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Properties.Resources.resources
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.GenerateResource.cache
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CoreCompileInputs.cache
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CopyComplete
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.exe
+C:\Users\vdias\OneDrive\Documentos\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.pdb
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe.config
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.pdb
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.dll
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.dll
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.xml
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.xml
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csprojAssemblyReference.cache
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmcamera.resources
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmlogin.resources
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Properties.Resources.resources
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.GenerateResource.cache
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CoreCompileInputs.cache
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CopyComplete
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.exe
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.pdb
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\DotCEP.dll
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Spartacus.dll
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Correios.dll
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Correios.pdb
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Menu.resources
+C:\Users\vdias\OneDrive\Documentos\Outros\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Cadastro_Matricula.resources
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe.config
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.pdb
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.dll
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.dll
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Correios.dll
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\DotCEP.dll
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Spartacus.dll
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.xml
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.xml
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Correios.pdb
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csprojAssemblyReference.cache
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmcamera.resources
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmlogin.resources
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Menu.resources
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Properties.Resources.resources
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.GenerateResource.cache
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CopyComplete
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.exe
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.pdb
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmprocurarid.resources
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmmatricula.resources
+C:\Users\Vitor Dias\Documents\TCC\TCC Teste código\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmcadastarlogin.resources
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe.config
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.pdb
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.dll
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.dll
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\Correios.dll
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\DotCEP.dll
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\Spartacus.dll
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.xml
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.xml
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\Correios.pdb
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmcadastarlogin.resources
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmcamera.resources
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmlogin.resources
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Menu.resources
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmmatricula.resources
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmprocurarid.resources
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Properties.Resources.resources
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CopyComplete
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.exe
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.pdb
+C:\Users\usuario\Desktop\TCC\TCC\Cadmatricula\Cadmatricula\bin\Debug\matriculas.accdb
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\matriculas.accdb
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe.config
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.pdb
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.dll
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.dll
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\Correios.dll
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\DotCEP.dll
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\Spartacus.dll
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.xml
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.xml
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\Correios.pdb
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csprojAssemblyReference.cache
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmcadastarlogin.resources
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmlogin.resources
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Menu.resources
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmmatricula.resources
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Properties.Resources.resources
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.GenerateResource.cache
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CopyComplete
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.exe
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.pdb
+C:\Users\Vitor Dias\Documents\aa\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmconsulta.resources
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\matriculas.accdb
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe.config
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.exe
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\Cadmatricula.pdb
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.dll
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.dll
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\Correios.dll
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\DotCEP.dll
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\Spartacus.dll
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.xml
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.xml
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\Correios.pdb
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csprojAssemblyReference.cache
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmcadastarlogin.resources
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmconsulta.resources
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmlogin.resources
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Menu.resources
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.frmmatricula.resources
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.Properties.Resources.resources
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.GenerateResource.cache
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.csproj.CopyComplete
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.exe
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\obj\Debug\Cadmatricula.pdb
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Vitor Dias\Documents\aa - Copia\TCC\Cadmatricula\Cadmatricula\bin\Debug\JTextBox.dll
